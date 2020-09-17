@@ -1,3 +1,3 @@
 #license
 
-##apache 2.0
+##apache 3.0
